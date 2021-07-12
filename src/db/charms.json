@@ -1,0 +1,26 @@
+{
+  "c01": {
+    "id": "01",
+    "name": "Candy Pink",
+    "avi": "https://i.ibb.co/X7GJsHf/Pink-charm-bracelets.jpg",
+    "price": 20,
+    "set": null,
+    "description": "Pink charm bracelets"
+  },
+  "c02": {
+    "id": "02",
+    "name": "Ice",
+    "avi": "https://i.ibb.co/XX2vN4w/Blue-charm-bracelets.jpg",
+    "price": 20,
+    "set": null,
+    "description": "Blue charm bracelets"
+  },
+  "c03": {
+    "id": "03",
+    "name": "Skittles",
+    "avi": "https://i.ibb.co/Zh2hPZF/Multi-color-charm-bracelets.jpghttps://i.ibb.co/Zh2hPZF/Multi-color-charm-bracelets.jpg",
+    "price": 20,
+    "set": null,
+    "description": "Multi color charm bracelets"
+  }
+}
