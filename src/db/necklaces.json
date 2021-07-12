@@ -1,0 +1,42 @@
+{
+  "n01": {
+    "id": "01",
+    "name": "KING",
+    "avi": "https://i.ibb.co/L8PQrKR/Black-onyx-bracelets-and-necklace-set-with-African-continent-pendant-on-the-necklace-95-necklace-65.jpg",
+    "price": null,
+    "set": null,
+    "description": "..."
+  },
+  "n02": {
+    "id": "02",
+    "name": "King of the Jungle",
+    "avi": "https://i.ibb.co/QbW7ZM6/Hematite-Beaded-necklace-with-lion-head-pendant.jpg",
+    "price": 65,
+    "set": null,
+    "description": "Hematite Beaded necklace with lion head pendant "
+  },
+  "n03": {
+    "id": "03",
+    "name": "Lion King",
+    "avi": "https://i.ibb.co/vmcLwD4/Black-onyx-necklace-with-lion-head-pendant.jpg",
+    "price": 70,
+    "set": null,
+    "description": "Black onyx necklace with lion head pendant"
+  },
+  "n04": {
+    "id": "04",
+    "name": "Ruler",
+    "avi": "https://i.ibb.co/p2G16YC/Hematite-and-black-onyx-stone-necklace-with-lion-head-pendant.jpg",
+    "price": 60,
+    "set": null,
+    "description": "Hematite stone helps develop concentration and focus and helps to keep you grounded which brings a quality of energy that is powerful."
+  },
+  "n05": {
+    "id": "05",
+    "name": "Suave",
+    "avi": "https://i.ibb.co/C6S4DYN/Tiger-eye-and-howlite-Stone-Necklace-with-cross-pendant.jpg",
+    "price": 60,
+    "set": null,
+    "description": "Tiger eyestone protects from negative energy, Helps focus the mind, Attracts good luck while deepening meditative state. It provides grounding while centering personal energy and dispelling fears promoting mental clarity."
+  }
+}

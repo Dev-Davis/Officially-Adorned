@@ -1,0 +1,164 @@
+[
+  {
+    "b01": {
+      "id": "01",
+      "name": "7 Chakra Love",
+      "avi": "https://i.ibb.co/0VwFSKr/7-chakra-infuser-bracelet-made-with-lava-rock.jpg",
+      "price": 20,
+      "set": null,
+      "description": "7 chakra diffuser bracelet"
+    },
+    "b02": {
+      "id": "02",
+      "name": "Chakra Love",
+      "avi": "https://i.ibb.co/g4SF3p8/Black-onyx-bracelet-set-with-Crown-pendant.jpg",
+      "price": 20,
+      "set": null,
+      "description": "Diffuser bracelet"
+    },
+    "b03": {
+      "id": "03",
+      "name": "Crown Me",
+      "avi": "https://i.ibb.co/g4SF3p8/Black-onyx-bracelet-set-with-Crown-pendant.jpg",
+      "price": 20,
+      "set": 40,
+      "description": "Black onyx bracelet set with Crown pendant"
+    },
+    "b04": {
+      "id": "04",
+      "name": "Elegantly True",
+      "avi": "https://i.ibb.co/8xTKJ9c/Fashion-jewelry-bead-bracelet-set.jpg",
+      "price": 15,
+      "set": 30,
+      "description": "Fashion jewelry bead bracelet set"
+    },
+    "b05": {
+      "id": "05",
+      "name": "Galiant",
+      "avi": "https://i.ibb.co/6wkpvcV/Blue-lapiz-bracelet-set-with-lion-head-pendant.jpg",
+      "price": 20,
+      "set": 35,
+      "description": "Blue lapiz stone  Encourages self awareness, allows self expression And reveals inner truth, Providing qualities of honesty compassion and morality. It also stimulates objectivity and encourages creativity"
+    },
+    "b06": {
+      "id": "06",
+      "name": "King of the Jungle Set",
+      "avi": "https://i.ibb.co/dtM3kn4/Hematite-stone-bracelet-set-with-lion-head-pendant.jpg",
+      "price": 20,
+      "set": 40,
+      "description": "Hematite stone bracelet set with lion head pendant"
+    },
+    "b07": {
+      "id": "07",
+      "name": "Lion Strong",
+      "avi": "https://i.ibb.co/dWcZgMt/Snowflake-Obsidian-beaded-bracelet-set.jpg",
+      "price": 20,
+      "set": 35,
+      "description": "Snowflake obsidian provides balance for body mind and spirit. It helps you recognize and release wrong thinking and mental problems."
+    },
+    "b08": {
+      "id": "08",
+      "name": "Midnight Fury",
+      "avi": "https://i.ibb.co/mcSJMb4/Black-onyx-bracelet-with-lion-head-pendant.jpg",
+      "price": 25,
+      "set": null,
+      "description": "Black onyx bracelet with lion head pendant"
+    },
+    "b09": {
+      "id": "09",
+      "name": "Suave Set",
+      "avi": "https://i.ibb.co/CbS4jMG/Tiger-eye-and-howlite-stone-bracelet-set.jpg",
+      "price": 20,
+      "set": 40,
+      "description": "Tiger eye and howlite stone bracelet set"
+    },
+    "b10": {
+      "id": "10",
+      "name": "Blue Viking",
+      "avi": "https://i.ibb.co/wCtzjSY/blue-viking-1-20-2-40.jpg",
+      "price": 20,
+      "set": null,
+      "description": "A blue lapiz stone bracelet set with a Viking helmet charm"
+    },
+    "b11": {
+      "id": "11",
+      "name": "Buddah Beauty",
+      "avi": "https://i.ibb.co/CMWxQ5L/buddah-beauty.jpg",
+      "price": 20,
+      "set": null,
+      "description": "Tiger eye and lava stone diffuser bracelet with Buddha pendant"
+    },
+    "b12": {
+      "id": "12",
+      "name": "Diffuser Love",
+      "avi": "https://i.ibb.co/kSC2HMK/diffuser-love.jpg",
+      "price": 20,
+      "set": null,
+      "description": "Howlite stone and lava rock diffuser bracelet with elephant pendant"
+    },
+    "b13": {
+      "id": "13",
+      "name": "Elegance",
+      "avi": "https://i.ibb.co/m9B9jWS/White-Howlite-Stone-25.jpg",
+      "price": 20,
+      "set": null,
+      "description": "..."
+    },
+    "b14": {
+      "id": "14",
+      "name": "Gorgeous Green",
+      "avi": "https://i.ibb.co/0FSGdmG/gorgeous-green.jpg",
+      "price": 20,
+      "set": 20,
+      "description": "Yochus green China jade bracelet with owl pendant"
+    },
+    "b15": {
+      "id": "15",
+      "name": "Holy Red",
+      "avi": "https://i.ibb.co/wKFKFBj/Round-crackle-druk-czech-crystal-splash-glass-beaded-bracelet-20.jpg",
+      "price": 20,
+      "set": null,
+      "description": "..."
+    },
+    "b16": {
+      "id": "16",
+      "name": "Purple Love",
+      "avi": "https://i.ibb.co/xzBWJCC/fashion-bracelet-with-praying-hands-pendant-15.jpg",
+      "price": 20,
+      "set": null,
+      "description": "..."
+    },
+    "b17": {
+      "id": "17",
+      "name": "Red Nirvana",
+      "avi": "https://i.ibb.co/3RsKJ37/red-nirvana-20.jpg",
+      "price": 20,
+      "set": null,
+      "description": "Round crakle druk czech bracelet"
+    },
+    "b18": {
+      "id": "18",
+      "name": "Turquoise Prayer",
+      "avi": "https://i.ibb.co/N2R59Zf/fashion-turquoise-bracelet-with-praying-hands-pendant-20.jpg",
+      "price": 20,
+      "set": null,
+      "description": "..."
+    },
+    "b19": {
+      "id": "19",
+      "name": "Buffalo Soldier",
+      "avi": "https://i.ibb.co/drhp049/Rastafarian-necklace-With-Lord-s-prayer-pendant-and-bracelet-set.jpg",
+      "price": 50,
+      "set": 80,
+      "description": "Rastafarian necklace with The Lord's Prayer pendant and bracelet set"
+    },
+    "b20": {
+      "id": "20",
+      "name": "Turquoise Praise",
+      "avi": "https://i.ibb.co/987Mvts/turquoise-praise-20.jpg",
+      "price": 20,
+      "set": null,
+      "description": "..."
+    }
+  }
+]
