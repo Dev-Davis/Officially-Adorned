@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,AAAC,CACV,MAAM,CAAE,KAAK,CACb,KAAK,CAAE,KAAK,CACZ,aAAa,CAAE,IAAI,CACpB",
+    "sources": [
+        "../src/Components/Bracelets/bracelets.scss"
+    ],
+    "names": [],
+    "file": "bracelets.css"
+}
