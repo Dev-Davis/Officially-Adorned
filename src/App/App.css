@@ -41,3 +41,17 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.top-header {
+  margin: 2rem 0 2rem 0;
+}
+
+.app-title {
+  font-family: 'Meddon', cursive;
+  text-shadow: 1px 2px 3px rgb(208, 52, 255);
+}
+
+.app-subtitle {
+  font-family: 'Great Vibes', cursive;
+  margin-left: 9rem;
+}

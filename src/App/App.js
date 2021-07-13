@@ -12,13 +12,14 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header>
+      <header className="top-header">
         <h3 className="app-title">
           Adorned
           <br></br>
           <h6>
             <span className="app-subtitle">by Damphia</span>
           </h6>
+          <hr></hr>
         </h3>
       </header>
       <Bracelets />
